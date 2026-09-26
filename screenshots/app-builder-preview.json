@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lemez- és csőhengerlés",
+      "hasCanvas": false,
+      "bodyTextLen": 9872,
+      "bodyTextHash": "fb8134f79d906340487cceaafe730b71621a66d09ecec16688871cfc9e55e1bc",
+      "bodyTextPrefix": "Ugrás a tartalomra TECHNOLÓGIA Hengerlés BEVEZETÉS LEMEZ ÁLLVÁNY",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lemez- és csőhengerlés",
+      "hasCanvas": false,
+      "bodyTextLen": 9782,
+      "bodyTextHash": "27fe80d629f9977a5b4368a89de25898a81cee77a66d3d20081c5c3b93d1901e",
+      "bodyTextPrefix": "Ugrás a tartalomra TECHNOLÓGIA Hengerlés BEVEZETÉS LEMEZ ÁLLVÁNY",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
